@@ -129,7 +129,7 @@ Python, FastAPI, React
 
 <div align="center">
 
-> “Simplicity is prerequisite for reliability.”
+> “Simplicidade é pré-requisito para confiabilidade.”
 >
 > — Edsger W. Dijkstra
 
