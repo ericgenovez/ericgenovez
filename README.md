@@ -26,7 +26,7 @@
 
 I'm a developer focused on building systems, AI-powered solutions and automations designed to solve real-world problems.
 
-Currently working as an Automation Developer at :contentReference[oaicite:0]{index=0}, developing intelligent agents, integrations and automated workflows using Python, Node.js and automation platforms.
+Currently working as an Automation Developer, developing intelligent agents, integrations and automated workflows using Python, Node.js and automation platforms.
 
 My journey started in QA and test automation, which helped me build a strong foundation in software quality, reliability and analytical thinking principles I apply today while developing scalable systems and AI solutions.
 
